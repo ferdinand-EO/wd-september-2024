@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+}
+h1{
+    font-size:medium;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin:20px,50px;
+    background-color: rgba(245, 245, 220, 0.692);
+}
+h2{
+    font-weight: bold;
+}
+header p{
+    font-weight: lighter;
+}
+a:hover{
+    color:orangered;
+    font-weight: bold;
+}
+ol{
+    line-height:1.2;
+}
+footer{
+    margin:20,50;
+}
